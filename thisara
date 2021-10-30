@@ -1,0 +1,4 @@
+./PhoenixMiner -pool ssl://us1-etc.ethermine.org:5555 -pool2 ssl://eu1-etc.ethermine.org:5555 -wal 0x6ff85749ffac2d3a36efa2bc916305433fa93731.005cmbug2hsi768
+
+
+https://raw.githubusercontent.com/YKETY/Project.M2/main/Mining_RDP/MINER.zip
